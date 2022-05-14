@@ -1,0 +1,13 @@
+.subline {
+  color: rgb(117, 125, 133);
+  margin-bottom: 60px;
+  font-size: 16px;
+}
+.form-header {
+  text-align: center;
+}
+.headline {
+  font-size: 32px;
+  font-weight: 600;
+  margin-bottom: 10px;
+}
